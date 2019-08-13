@@ -38,8 +38,8 @@ python main.py
 ```
 
 ### Routes:
-⋅⋅* /api/ping (check if server alive)
-⋅⋅* /api/search (query route)
+1. /api/ping (check if server alive)
+2. /api/search (query route)
 
 ### Example:
 http://127.0.0.1:5000/api/search?q=Linkin+Park
