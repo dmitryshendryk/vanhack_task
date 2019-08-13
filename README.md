@@ -31,17 +31,17 @@ Test with the following string « keystone - Circular reference found role infer
 I've used BeautifulSoup to get the links and parse google search results. Also using same way i've parsed the content of 5 links and extracted sentences, where keywords were matched. As API I use Flask library. 
 
 
-Start Flask API
+### Start Flask API
 ```
 cd questions_C
 python main.py
 ```
 
-Routes:
+### Routes:
 ⋅⋅* /api/ping (check if server alive)
 ⋅⋅* /api/search (query route)
 
-Example:
+### Example:
 http://127.0.0.1:5000/api/search?q=Linkin+Park
 
 
