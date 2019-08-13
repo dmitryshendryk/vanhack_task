@@ -1,3 +1,3 @@
-### VanHack Code Assignment
+# VanHack Code Assignment
 
 ## Question A
